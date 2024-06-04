@@ -1,0 +1,16 @@
+
+
+.contenedor-perfil{
+   
+}
+.imagen-perfil{
+    width: 100px;
+    height: 100px;
+    border-radius: 30px;
+    justify-self: center;
+    align-self: center;
+    
+}
+p {
+    padding-left: 10px;
+}
